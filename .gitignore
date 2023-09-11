@@ -25,6 +25,7 @@ replay_pid*
 
 
 # maven ignore
+*.target/
 target/
 *.versionsBackup
 
