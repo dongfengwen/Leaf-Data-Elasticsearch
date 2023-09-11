@@ -35,6 +35,7 @@ target/
 
 # idea ignore
 .idea/
+.idea
 *.ipr
 *.iml
 *.iws
@@ -60,5 +61,6 @@ src/main/resources/application-dev.yml
 *rebel.xml
 
 
-
 logs/
+
+
